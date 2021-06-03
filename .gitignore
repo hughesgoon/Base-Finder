@@ -7,8 +7,7 @@ backend/public/
 .env.local
 .env.*.local
 
-# Vue config & goorm IDE local config
-vue.config.js
+# goorm IDE local config
 goorm.manifest
 
 
